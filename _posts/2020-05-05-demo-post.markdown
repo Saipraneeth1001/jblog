@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Demo Post"
+---
+This is a demo post to check the functionality of the site.
