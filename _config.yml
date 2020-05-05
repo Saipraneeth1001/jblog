@@ -23,7 +23,7 @@ email: saipraneeth0448@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Gives you a different view on matters.
 baseurl: "/e-library.in" # the subpath of your site, e.g. /blog
-url: "e-library.in/jblog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/e-library.in/jblog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  saipraneeth1001
 
